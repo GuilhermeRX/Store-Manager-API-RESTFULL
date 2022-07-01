@@ -36,6 +36,8 @@ A gestão dos dados é feita através de um banco de dados MySQL.
 
 - Docker: É um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
 
+- Mocha: O Mocha é uma estrutura de teste JavaScript para programas Node.js.
+
 Projeto desenvolvido como forma de avaliação de competências no módulo de Back End da @Trybe
 - Requisitos obrigatórios aprovados: 12/12
 - Requisitos totais aprovados: 20/20
